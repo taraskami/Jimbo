@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: "Helvetica", Arial, Verdana;
+    height: 100%;
+    background-color: #8AD2A2;
+}
+
+figure{
+    margin: 50px;
+    float: right;
+}
+
+iframe {
+    margin: 100px; 
+}
+
+h1 {
+    text-align: center;
+    font-size: 4.4em;
+    color: whitesmoke;
+}
